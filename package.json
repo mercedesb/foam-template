@@ -7,6 +7,7 @@
   "license": "MIT",
   "scripts": {
     "backlinks": "node scripts/backlinks.js .",
+    "links": "node scripts/link-notes.js .",
     "tags": "node scripts/tags.js ."
   },
   "dependencies": {
