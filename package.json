@@ -6,7 +6,8 @@
   "author": "Mercedes Bernard <mercedesrbernard@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "backlinks": "node scripts/backlinks.js ."
+    "backlinks": "node scripts/backlinks.js .",
+    "tags": "node scripts/tags.js ."
   },
   "dependencies": {
     "remark": "^11.0.1",
