@@ -1,0 +1,18 @@
+{
+  "name": "foam-template",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/mercedesb/foam-template.git",
+  "author": "Mercedes Bernard <mercedesrbernard@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "remark": "^11.0.1",
+    "remark-parse": "~7",
+    "remark-stringify": "~7",
+    "remark-wiki-link": "^0.0.4",
+    "unified": "^8.4.0",
+    "unist-util-find": "^1.0.1",
+    "unist-util-is": "^4.0.0",
+    "unist-util-visit-parents": "^3.0.1"
+  }
+}
